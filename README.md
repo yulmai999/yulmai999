@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
-**yulmai999/yulmai999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Discord: yulmai<br>
+Velog: <a href="https://velog.io/@yulmai999/posts">yulmai999</a><br>
+Email: yulmin777@naver.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulmai999&layout=compact)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulmai999&layout=donut)
